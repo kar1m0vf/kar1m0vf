@@ -8,7 +8,6 @@ Clean interfaces, Telegram bots, automation tools, and practical software.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kar1m0vf.github.io-111?style=for-the-badge&logo=githubpages&logoColor=white)](https://kar1m0vf.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kamil%20Kerimov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-kerimov)
-[![GitHub](https://img.shields.io/badge/GitHub-kar1m0vf-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kar1m0vf)
 
 </div>
 
