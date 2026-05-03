@@ -17,11 +17,28 @@ Clean interfaces, Telegram bots, automation tools, and practical software.
 
 I build useful frontend and automation projects with clean UI, structured logic, and maintainable code.
 
-| Focus | What I Build |
-| --- | --- |
-| Frontend | Responsive interfaces and interactive web projects |
-| Automation | Python scripts, workflow tools, and practical utilities |
-| Bots | Telegram-based tools with clear logic and structure |
+<div align="center">
+
+<table>
+  <tr>
+    <th>Focus</th>
+    <th>What I Build</th>
+  </tr>
+  <tr>
+    <td>Frontend</td>
+    <td>Responsive interfaces and interactive web projects</td>
+  </tr>
+  <tr>
+    <td>Automation</td>
+    <td>Python scripts, workflow tools, and practical utilities</td>
+  </tr>
+  <tr>
+    <td>Bots</td>
+    <td>Telegram-based tools with clear logic and structure</td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -41,25 +58,6 @@ I build useful frontend and automation projects with clean UI, structured logic,
 ![Git](https://img.shields.io/badge/Git-111?style=flat-square&logo=git)
 
 </div>
-
----
-
-## How I Work
-
-```text
-idea -> structure -> interface -> automation -> testing -> polish
-```
-
-<details>
-<summary><b>More</b></summary>
-
-- I prefer small projects that feel complete.
-- I care about readable code and predictable structure.
-- I like tools that solve real workflow problems.
-
-</details>
-
----
 
 <div align="center">
 
