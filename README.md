@@ -2,9 +2,9 @@
 
 # Kamil Kerimov
 
-### Frontend & Python Automation Developer
+**Frontend & Python Automation Developer**
 
-I build clean interfaces, automation tools, and practical software projects.
+Clean interfaces, Telegram bots, automation tools, and practical software.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kar1m0vf.github.io-111?style=for-the-badge&logo=githubpages&logoColor=white)](https://kar1m0vf.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kamil%20Kerimov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-kerimov)
@@ -16,9 +16,13 @@ I build clean interfaces, automation tools, and practical software projects.
 
 ## About
 
-I focus on building practical software with clean user experience, structured logic, and real-world use in mind.
+I build useful frontend and automation projects with clean UI, structured logic, and maintainable code.
 
-My work is mostly around frontend development, Python automation, Telegram-based tools, and interactive software projects.
+| Focus | What I Build |
+| --- | --- |
+| Frontend | Responsive interfaces and interactive web projects |
+| Automation | Python scripts, workflow tools, and practical utilities |
+| Bots | Telegram-based tools with clear logic and structure |
 
 ---
 
@@ -26,53 +30,33 @@ My work is mostly around frontend development, Python automation, Telegram-based
 
 <div align="center">
 
-### Frontend
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/React-111?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/HTML5-111?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-111?style=flat-square&logo=css3)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111?style=flat-square&logo=tailwindcss)
-
-### Backend / Automation
-
 ![Python](https://img.shields.io/badge/Python-111?style=flat-square&logo=python)
 ![SQLite](https://img.shields.io/badge/SQLite-111?style=flat-square&logo=sqlite)
-![Telegram](https://img.shields.io/badge/Telegram_Bots-111?style=flat-square&logo=telegram)
+![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-111?style=flat-square&logo=telegram)
 ![Git](https://img.shields.io/badge/Git-111?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=flat-square&logo=github)
 
 </div>
 
 ---
 
-## Focus
+## How I Work
 
 ```text
-Frontend development
-Python automation
-Telegram-based tools
-Testing and maintainability
-Product-minded engineering
+idea -> structure -> interface -> automation -> testing -> polish
 ```
 
----
-
 <details>
-<summary><b>More about how I build</b></summary>
+<summary><b>More</b></summary>
 
-<br>
-
-I prefer projects that are useful beyond simple practice tasks.
-
-I care about:
-
-- clean user experience;
-- understandable structure;
-- maintainable logic;
-- practical automation;
-- testing and gradual improvement.
+- I prefer small projects that feel complete.
+- I care about readable code and predictable structure.
+- I like tools that solve real workflow problems.
 
 </details>
 
@@ -80,6 +64,6 @@ I care about:
 
 <div align="center">
 
-**Building practical stuff.**
+**Building practical stuff with clean structure.**
 
 </div>
