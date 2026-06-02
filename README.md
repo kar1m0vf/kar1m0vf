@@ -82,9 +82,6 @@ Frontend · Software Engineer · Python Automation · Practical Software
 
 <sub>contribution activity</sub>
 
-<br/>
-<br/>
-
 <picture>
   <source 
     media="(prefers-color-scheme: dark)" 
