@@ -10,9 +10,8 @@
 <a href="https://www.linkedin.com/in/kamil-kerimov">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=kar1m0vf&label=Views&color=111111&style=for-the-badge" />
-
 <br/>
+<img src="https://komarev.com/ghpvc/?username=kar1m0vf&label=Views&color=111111&style=for-the-badge" />
 <br/>
 
 <sub>
@@ -31,7 +30,7 @@ Frontend · Software Engineer · Python Automation · Practical Software
 
 <br/>
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td width="33%" align="center">
       <strong>Interface</strong>
@@ -76,34 +75,3 @@ Frontend · Software Engineer · Python Automation · Practical Software
 </div>
 
 <br/>
-
----
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <sub>
-        My repositories are not a museum of finished projects.<br/>
-        They are traces of how I think, build, break, improve, and ship.
-      </sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<code>clean interfaces</code>
- ·  <code>practical tools</code>
- ·  <code>automation logic</code>
- ·  <code>real systems</code>
-
-<br/>
-<br/>
-
-<sub>
-The goal is not to look busy. The goal is to become harder to ignore.
-</sub>
-
-</div>
