@@ -1,68 +1,109 @@
 <div align="center">
 
-# Kamil Kerimov
+<img src="./assets/header.svg" width="100%" alt="Kamil Kerimov — Frontend & Python Automation" />
 
-**Frontend & Python Automation Developer**
+<br/>
 
-Clean interfaces, Telegram bots, automation tools, and practical software.
+<a href="https://kar1m0vf.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/kamil-kerimov">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=kar1m0vf&label=Views&color=111111&style=for-the-badge" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kar1m0vf.github.io-111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kar1m0vf.github.io)
-[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&label=LinkedIn&message=Kamil%20Kerimov&color=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-kerimov)
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kar1m0vf&label=Profile%20views&color=0e75b6&style=flat" alt="kar1m0vf" />
-</p>
+<br/>
+<br/>
+
+<sub>
+Frontend · Software Engineer · Python Automation · Practical Software
+</sub>
+
 </div>
 
 ---
 
-## About
+<div align="center">
 
-I build useful frontend and automation projects with clean UI, structured logic, and maintainable code.
+### I build clean digital systems with practical logic and sharp interfaces.
+
+</div>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <strong>Interface</strong>
+      <br/>
+      <sub>clean, responsive, clear</sub>
+    </td>
+    <td width="33%" align="center">
+      <strong>Logic</strong>
+      <br/>
+      <sub>structured, useful, maintainable</sub>
+    </td>
+    <td width="33%" align="center">
+      <strong>Automation</strong>
+      <br/>
+      <sub>less routine, more systems</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### Stack
+
+<img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript" />
+<img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript" />
+<img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react" />
+<img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5" />
+<img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3" />
+<img src="https://img.shields.io/badge/Tailwind-111111?style=flat-square&logo=tailwindcss" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python" />
+<img src="https://img.shields.io/badge/SQLite-111111?style=flat-square&logo=sqlite" />
+<img src="https://img.shields.io/badge/Telegram%20Bots-111111?style=flat-square&logo=telegram" />
+<img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git" />
+<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github" />
+<img src="https://img.shields.io/badge/VS%20Code-111111?style=flat-square&logo=visualstudiocode" />
+
+</div>
+
+<br/>
+
+---
 
 <div align="center">
 
 <table>
   <tr>
-    <th>Focus</th>
-    <th>What I Build</th>
-  </tr>
-  <tr>
-    <td>Frontend</td>
-    <td>Responsive interfaces and interactive web projects</td>
-  </tr>
-  <tr>
-    <td>Automation</td>
-    <td>Python scripts, workflow tools, and practical utilities</td>
-  </tr>
-  <tr>
-    <td>Bots</td>
-    <td>Telegram-based tools with clear logic and structure</td>
+    <td align="center">
+      <sub>
+        My repositories are not a museum of finished projects.<br/>
+        They are traces of how I think, build, break, improve, and ship.
+      </sub>
+    </td>
   </tr>
 </table>
 
-</div>
+<br/>
 
----
+<code>clean interfaces</code>
+ ·  <code>practical tools</code>
+ ·  <code>automation logic</code>
+ ·  <code>real systems</code>
 
-## Stack
+<br/>
+<br/>
 
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/React-111?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-111?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111?style=flat-square&logo=css3)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111?style=flat-square&logo=tailwindcss)
-![Python](https://img.shields.io/badge/Python-111?style=flat-square&logo=python)
-![SQLite](https://img.shields.io/badge/SQLite-111?style=flat-square&logo=sqlite)
-![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-111?style=flat-square&logo=telegram)
-![Git](https://img.shields.io/badge/Git-111?style=flat-square&logo=git)
-
-</div>
-
-<div align="center">
-
-**Building practical stuff with clean structure.**
+<sub>
+The goal is not to look busy. The goal is to become harder to ignore.
+</sub>
 
 </div>
