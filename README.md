@@ -75,3 +75,36 @@ Frontend · Software Engineer · Python Automation · Practical Software
 </div>
 
 <br/>
+
+---
+
+<div align="center">
+
+<sub>contribution activity</sub>
+
+<br/>
+<br/>
+
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/kar1m0vf/kar1m0vf/output/github-snake-dark.svg" 
+  />
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/kar1m0vf/kar1m0vf/output/github-snake.svg" 
+  />
+  <img 
+    alt="GitHub contribution snake" 
+    src="https://raw.githubusercontent.com/kar1m0vf/kar1m0vf/output/github-snake.svg" 
+  />
+</picture>
+
+<br/>
+<br/>
+
+<sub>
+Clean interfaces · practical logic · real systems
+</sub>
+
+</div>
