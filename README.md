@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://kar1m0vf.github.io">
+<a href="https://kamilkerimov.com">
   <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/kamil-kerimov">
